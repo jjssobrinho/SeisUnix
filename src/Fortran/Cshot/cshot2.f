@@ -97,7 +97,7 @@ c  ZDUMMY   Dummy float variable
       INTEGER     MAXTR,        MAXTPT,         MAXWAV
 
       PARAMETER ( MAXTR  = 500,
-     :            MAXTPT =1001,
+     :            MAXTPT =3001,
 c    :            MAXWAV = 513)
      :            MAXWAV = 257)
 
